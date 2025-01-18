@@ -1,0 +1,11 @@
+.ropeproject
+/site
+.mypy_cache/
+check.py
+*.pdg
+deletes/
+sorted/
+splits/
+merged/
+pyvenv.cfg
+.DS_Store 
