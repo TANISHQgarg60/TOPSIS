@@ -11,8 +11,8 @@ setup(
     url='https://github.com/TANISHQgarg60/TOPSIS',  # Your repository URL
     packages=find_packages(),
     install_requires=[
-        'pandas'
-        'numpy',
+        'pandas',
+        'numpy'
     ],
     entry_points={
         'console_scripts': [
