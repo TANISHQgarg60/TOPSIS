@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='102217227-TOPSIS',  # The name of your package on PyPI
+    name='TOPSIS_7227',  # The name of your package on PyPI
     version='1.0.0',  # Initial version
     description='A Python implementation of the TOPSIS method for multi-criteria decision making',
     long_description=open('README.md').read(),
